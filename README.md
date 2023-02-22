@@ -1,4 +1,6 @@
 # GhatGPTWordPress
+记录使用GhatGPT生成一个WordPress主题
+
 一个 WordPress 主题通常包括以下部分：
 
 1.style.css：定义了主题的样式和元数据信息，例如主题名称、作者、版本等。
