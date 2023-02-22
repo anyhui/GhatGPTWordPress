@@ -1,4 +1,5 @@
 # GhatGPTWordPress
+
 记录使用GhatGPT生成一个WordPress主题
 
 一个 WordPress 主题通常包括以下部分：
